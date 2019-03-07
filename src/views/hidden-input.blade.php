@@ -1,0 +1,1 @@
+<input type="hidden" name="recaptcha-token" value="" id="recaptcha-token-input" />
