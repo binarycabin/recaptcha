@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/binarycabin/recaptcha.svg?branch=master)](https://travis-ci.org/binarycabin/recaptcha)
 [![StyleCI](https://github.styleci.io/repos/174383040/shield?branch=master)](https://github.styleci.io/repos/174383040)
+[![Latest Stable Version](http://img.shields.io/packagist/v/binarycabin/recaptcha.svg?style=flat)](https://packagist.org/packages/binarycabin/recaptcha)
+[![Total Downloads](http://img.shields.io/packagist/dt/binarycabin/recaptcha.svg?style=flat)](https://packagist.org/packages/binarycabin/recaptcha)
 
 A laravel package for easy ReCAPTCHA integration
 
