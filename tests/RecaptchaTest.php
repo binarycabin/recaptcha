@@ -10,5 +10,4 @@ class RecaptchaTest extends TestCase
     {
         $this->assertTrue(true);
     }
-
 }
