@@ -1,5 +1,8 @@
 # Recaptcha
 
+[![Build Status](https://travis-ci.org/binarycabin/recaptcha.svg?branch=master)](https://travis-ci.org/binarycabin/recaptcha)
+[![StyleCI](https://github.styleci.io/repos/174383040/shield?branch=master)](https://github.styleci.io/repos/174383040)
+
 A laravel package for easy ReCAPTCHA integration
 
 ## Installation
